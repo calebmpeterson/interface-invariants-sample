@@ -1,13 +1,13 @@
 # UX Invariants — Sample Variant
 
-The UX Invariants Sample distribution is a limited subset of UX Invariants intended
+The UX Invariants Sample distribution is a limited subset of U[UX Invariants](https://ux-invariants.cubicle6.com) intended
 for evaluation and quick trial in AI-assisted workflows.
 
 **[Purchase the complete production-ready set of UX Invariants](https://ux-invariants.cubicle6.com/purchase).**
 
 ## What this is
 
-- A small, representative slice of the invariant set
+- A small, representative slice of the UX Invariant set
 - Structured Markdown specs meant for LLM conditioning and human review
 - Framework-agnostic and tooling-agnostic
 

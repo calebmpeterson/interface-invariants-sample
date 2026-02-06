@@ -1,6 +1,6 @@
 ---
-name: ux-invariants
-description: Apply UX Invariants whenever performing or reasoning about an UI/UX task.
+name: ux-invariants-sample
+description: Sample UX Invariants whenever performing or reasoning about an UI/UX task.
 ---
 
 IMPORTANT: Always state when you read or apply a `ux-invariant`
